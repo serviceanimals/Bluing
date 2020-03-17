@@ -1,4 +1,3 @@
-# 
 # [Bluing](https://github.com/serviceanimals/Bluing/)
 
 [![SmilingBluing20190909.jpg](https://github.com/serviceanimals/gait/raw/master/SmilingBluing20190909.jpg)](https://github.com/serviceanimals/gait/raw/master/SmilingBluing20190909.jpg)
