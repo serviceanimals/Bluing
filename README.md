@@ -1,6 +1,6 @@
 # [Bluing](https://github.com/serviceanimals/Bluing/)
 
-Bluing is a missing [service animal](https://serviceanimals.github.io/).  Can you help find her?  You can help if know anything about her whereabouts; PLEASE CONTRIBUTE.
+Bluing is a missing [service animal](https://serviceanimals.github.io/).  Can you help find her?  You can help if know anything about her whereabouts; Please Contribute.
 
 [![SmilingBluing20190909.jpg](https://github.com/serviceanimals/gait/raw/master/SmilingBluing20190909.jpg)](https://github.com/serviceanimals/gait/raw/master/SmilingBluing20190909.jpg)
 
